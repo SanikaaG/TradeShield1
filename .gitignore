@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.db
+*.db-wal
+*.db-shm
+mock_exchange_state.json
+node_modules/
+frontend/dist/
+.venv/
